@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32366'
     url: http://www.gutenberg.org/2009/agents/32366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41642#The-Court-of-CacusOr-The-Story-of-Burke-and-Hare
 gutenberg_issued: '2012-12-17'
 gutenberg_type: Text
 identifiers:
